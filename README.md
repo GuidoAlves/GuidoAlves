@@ -1,4 +1,4 @@
-### olá meu nome é Guilherme Alves👋
+### olá meu nome é Guilherme Alves ✌️
 
 - 🌱  cursando técnico em desenvolvimento fullstack.
 - 🦾  gostaria de colaborar em projetos simples para front-end.
